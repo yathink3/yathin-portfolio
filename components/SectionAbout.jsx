@@ -17,8 +17,8 @@ const SectionAbout = () => {
           </Typography>
           <Typography textAlign='center'>
             {`We mix Japanese and Western ingredients and cooking methods. Provide you
-    with a different tasting dimension with the fusion food in our restaurant.
-    Don't miss the chance to surprise your tongue!`}
+              with a different tasting dimension with the fusion food in our restaurant.
+              Don't miss the chance to surprise your tongue!`}
           </Typography>
         </Grid>
         <MuiNextLink href='/about-us'>
