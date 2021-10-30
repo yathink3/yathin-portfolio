@@ -22,10 +22,10 @@ const Homepage = () => {
           perferendis quasi corrupti? Voluptates blanditiis earum optio omnis consectetur sapiente? Aliquid, expedita distinctio enim quos quis autem totam blanditiis ducimus laborum temporibus non. Repellat eaque aliquid perspiciatis fuga iste nam! Ut, iusto suscipit.
         </p>
       </Container>
-      <Hero imgSrc='/home-hero.jpg' imgAlt='satified woman eating in restaurant' title='De West Sakura' subtitle='Best Western &amp; Japanese Fusion Restaurant In Town' />
+      <Hero imgSrc='/restaurent_img.jfif' imgAlt='satified woman eating in restaurant' title='De West Sakura' subtitle='Best Western &amp; Japanese Fusion Restaurant In Town' />
       <SectionAbout />
       <SectionReview />
-      <SectionImage imgSrc='/fusion-food.jpg' imgAlt='fusion food' />
+      <SectionImage imgSrc='/fusion-food.jpeg' imgAlt='fusion food' />
       <Container maxWidth='md' sx={{ my: 15 }}>
         <Grid container spacing={2}>
           <Grid container item justifyContent='center' xs={12} md={6}>

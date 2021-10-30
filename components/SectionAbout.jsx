@@ -21,8 +21,8 @@ const SectionAbout = () => {
               Don't miss the chance to surprise your tongue!`}
           </Typography>
         </Grid>
-        <MuiNextLink href='/about-us'>
-          <Button variant='outlined' size='large'>
+        <MuiNextLink href='/about-us' underline='none'>
+          <Button variant='contained' size='large'>
             About Us
           </Button>
         </MuiNextLink>
